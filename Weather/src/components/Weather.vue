@@ -23,7 +23,7 @@
       </v-card-title>
 
       <div class="text-center mx-auto">
-        <img :src="image" class="d-block mx-auto">
+        <img :src="this.image" class="d-block mx-auto">
       </div>
 
       <v-card-text class="py-0" style="color: #10379f;">
